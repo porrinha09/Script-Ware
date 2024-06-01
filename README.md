@@ -26,10 +26,10 @@ cd Script-Ware
 
 3- Permissão
 ```sh
-chmod +x Script-Ware
+chmod +x ScriptWare.sh
 ```
 
 4- Inciar
 ```sh
-./Script-Ware
+./ScriptWare.sh
 ```
