@@ -26,12 +26,12 @@ cd Script-Ware
 
 3- Permissão
 ```sh
-chmod +x ScriptWare.sh
+chmod +x "scriptware.sh"
 ```
 
 4- Inciar
 ```sh
-./ScriptWare.sh
+./"scriptware.sh"
 ```
 
 # Instalação rápida:
