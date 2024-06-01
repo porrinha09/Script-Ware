@@ -8,6 +8,6 @@
 # Script Ware
 Script Ware e um script shell para hacking
 
-![Better YouTube](https://raw.githubusercontent.com/porrinha09/Script Ware/main/images/logotipo.png)
+![Script Ware](https://raw.githubusercontent.com/porrinha09/Script-Ware/main/images/logotipo.png)
 
 </div>
