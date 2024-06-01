@@ -33,3 +33,9 @@ chmod +x ScriptWare.sh
 ```sh
 ./ScriptWare.sh
 ```
+
+# Instalação rápida:
+1- Tudo
+```sh
+git clone https://github.com/porrinha09/Script-Ware.git && cd Script-Ware && chmod +x "scriptware.sh" && ./"scriptware.sh"
+```
