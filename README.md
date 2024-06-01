@@ -11,3 +11,10 @@
 Script Ware e um script shell para hacking
 
 </div>
+
+# Instalação:
+
+1- Git clone
+```sh
+
+```
