@@ -21,15 +21,15 @@ git clone https://github.com/porrinha09/Script-Ware.git
 
 2- cd
 ```sh
-cd ScriptWare.sh
+cd Script-Ware
 ```
 
 3- Permissão
 ```sh
-chmod +x ScriptWare.sh
+chmod +x Script-Ware
 ```
 
 4- Inciar
 ```sh
-./ScriptWare.sh
+./Script-Ware
 ```
