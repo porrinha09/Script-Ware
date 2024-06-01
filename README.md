@@ -16,5 +16,20 @@ Script Ware e um script shell para hacking
 
 1- Git clone
 ```sh
+git clone https://github.com/porrinha09/Script-Ware.git
+```
 
+2- cd
+```sh
+cd ScriptWare.sh
+```
+
+3- Permissão
+```sh
+chmod +x ScriptWare.sh
+```
+
+4- Inciar
+```sh
+./ScriptWare.sh
 ```
